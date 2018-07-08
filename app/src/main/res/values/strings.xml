@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContactDemo</string>
+    <string name="search_contact">Search contact...</string>
+</resources>
