@@ -1,4 +1,5 @@
 # Android-Contact-Demo
+<p>     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Deeptiman/Android-Contact-Demo">  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Deeptiman/Android-Contact-Demo"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Deeptiman/Android-Contact-Demo"></p>
 
 ## Overview
 
