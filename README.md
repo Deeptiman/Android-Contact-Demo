@@ -6,7 +6,7 @@
 This is a sample demo code for Android Contact App using MVP(Model View Presenter)
 
 ## Demo
-<img src="/Screenshots/export_screenshot.png" width="300"/>
+<img src="/Screenshots/export_phone_contact.png" width="300"/>
 
 
 ## Requirements
